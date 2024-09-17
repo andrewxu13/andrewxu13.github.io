@@ -1,7 +1,12 @@
-/* style.css */
-.round-image {
-    border-radius: 50%;
-    width: 150px; /* Adjust size as needed */
-    height: 150px;
-    object-fit: cover;
+---
+---
+
+@import "{{ site.theme }}";  /* Import the theme's default styles */
+
+/* Target the image inside the header specifically */
+header img {
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
 }
