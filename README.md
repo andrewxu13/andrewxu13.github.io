@@ -7,12 +7,12 @@
   <tr>
     <td><strong>M.S., Business Analytics</strong></td>
     <td>Loyola Marymount University</td>
-    <td><em>(Aug 2024)</em></td>
+    <td><em>Aug 2024</em></td>
   </tr>
   <tr>
     <td><strong>B.S., Statistical Science</strong></td>
     <td>University of California, Santa Barbara</td>
-    <td><em>(Dec 2020)</em></td>
+    <td><em>Dec 2020</em></td>
   </tr>
 </table>
 
