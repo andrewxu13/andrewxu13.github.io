@@ -3,7 +3,7 @@
 #### Technical Skills: A/B Testing, AWS, Azure Machine Learning Studio, C++, Docker, Excel, Git, Kubernetes, Python, Statistical Modelling in R and Python, SQL, Streamlit (Python), Tableau, Rstudio, SAS, Stan, STATA
 
 ## Education
-- Master, Business Analytics | Loyola Marymount University （_Aug 2024_)
+- Master, Business Analytics | Loyola Marymount University (_Aug 2024_)
 - Bachelor, Statistical Science | University of California, Santa Barbara (_Dec 2020_)
 
 ## Work Experience
