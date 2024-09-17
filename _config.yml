@@ -1,5 +1,15 @@
-title: Cailiang (Andrew) Xu
-#logo:
-description: test-test
+title: "Cailiang (Andrew) Xu"
+description: "Andrew Xu's Portfolio"
 show_downloads: true
 theme: jekyll-theme-minimal
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-fontawesome
+
+# Sidebar links (if supported by the theme)
+links:
+  - title: "LinkedIn"
+    url: "https://www.linkedin.com/in/your-linkedin-profile"
