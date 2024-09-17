@@ -9,4 +9,4 @@ sass:
   style: compressed
 assets:
   css:
-    - /assets/css/style.css
+    - /style.css
