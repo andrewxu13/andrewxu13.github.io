@@ -90,14 +90,3 @@
 <a href="https://www.linkedin.com/in/cailiang-xu" target="_blank" class="floating-btn">
   <img src="/assets/LinkedIn_logo_initials.png" alt="LinkedIn Logo">
 </a>
-
-<!-- Configuration on my photo -->
-<style>
-  .round-image {
-    border-radius: 50%;
-    width: 150px;
-    height: 150px;
-    object-fit: cover;
-  }
-</style>
-<img src="/assets/round_headshot.jpg" alt="Andrew Xu" class="round-image">
