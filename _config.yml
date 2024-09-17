@@ -3,10 +3,6 @@ logo: /assets/round_headshot.jpg
 description: "Andrew Xu's Portfolio"
 show_downloads: true
 theme: jekyll-theme-minimal
-# Link to custom CSS
-markdown: kramdown
-sass:
-  style: compressed
 assets:
   css:
     - /style.css
