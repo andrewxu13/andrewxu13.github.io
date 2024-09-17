@@ -7,12 +7,12 @@
   <tr>
     <td><strong>M.S., Business Analytics</strong></td>
     <td>Loyola Marymount University</td>
-    <td><em>Aug 2024</em></td>
+    <td style="text-align:right;"><em>Aug 2024</em></td>
   </tr>
   <tr>
     <td><strong>B.S., Statistical Science</strong></td>
-    <td>University of California, Santa Barbara</td>
-    <td><em>Dec 2020</em></td>
+    <td style="white-space: nowrap;">University of California, Santa Barbara</td>
+    <td style="text-align:right;"><em>Dec 2020</em></td>
   </tr>
 </table>
 
@@ -21,7 +21,7 @@
 - Develop a pioneering machine learning model (**Transformer Architecture with Copular Network**) from scratch to determine optimal timing for selling loans to investors, increasing decision-making efficiency and accuracy by 5%.
 
 **Data Scientst Intern**&nbsp;@&nbsp;**Children Hospital, Los Angeles (CHLA)**&nbsp;(_May 2024 - Aug 2024_)
-[![Application Preview](/assets/img/CHLA.png)](https://hhhnnn.streamlit.app/)
+[![Application Preview](/assets/CHLA.png)](https://hhhnnn.streamlit.app/)
 - Increased hospital resource planning efficiency by developing and deploying a predictive model using **Python** and Azure Machine Learning Studio, raising appointment no-show recall rate by **20%** and ensuring better allocation of resources.
 - Enhanced decision-making capabilities of non-technical clients/managers by creating easy-to-understand dashboards (**Tableau**) and graphs (**Python**) to illustrate performance metrics, clearly understanding project progress and enabling informed choices for future steps.
 
@@ -57,6 +57,6 @@
 
 ## Awards
 **2024 LMU Datathon**,&nbsp;1st Place
-[![Award Preview](/assets/img/datathon.png)](https://www.linkedin.com/posts/loyola-marymount-university-college-of-business-administration_lmucba-lmuisba-lmumsba-activity-7173728335921922048-Cyr6?utm_source=share&utm_medium=member_desktop)
+[![Award Preview](/assets/datathon.png)](https://www.linkedin.com/posts/loyola-marymount-university-college-of-business-administration_lmucba-lmuisba-lmumsba-activity-7173728335921922048-Cyr6?utm_source=share&utm_medium=member_desktop)
 - Developed a machine learning classifier within **24** hours to predict eligibility for government grants targeting women-owned and minority-owned businesses.
 -	Presented the final solution and secured 1st place with advanced **predictive analytics** and **data modeling** techniques.
