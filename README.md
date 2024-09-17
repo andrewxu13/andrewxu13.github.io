@@ -3,7 +3,7 @@
 #### Technical Skills: A/B Testing, AWS, Azure Machine Learning Studio, C++, Docker, Excel, Git, Kubernetes, Python, Statistical Modelling in R and Python, SQL, Streamlit (Python), Tableau, Rstudio, SAS, Stan, STATA
 
 ## Education
-- Master，Business Analytics | Loyola Marymount University （_Aug 2024_)
+- Master, Business Analytics | Loyola Marymount University （_Aug 2024_)
 - Bachelor, Statistical Science | University of California, Santa Barbara (_Dec 2020_)
 
 ### Work Experience
@@ -11,9 +11,9 @@
 - Develop a pioneering machine learning model (**Transformer Architecture with Copular Network**) from scratch to determine optimal timing for selling loans to investors, increasing decision-making efficiency and accuracy by 5%.
 
 **Data Scientst Intern** @ Children Hospital, Los Angeles (CHLA) (_May 2024 - Aug 2024_)
+[Application](https://hhhnnn.streamlit.app/)
 - Increased hospital resource planning efficiency by developing and deploying a predictive model using **Python** and Azure Machine Learning Studio, raising appointment no-show recall rate by **20%** and ensuring better allocation of resources.
 - Enhanced decision-making capabilities of non-technical clients/managers by creating easy-to-understand dashboards (**Tableau**) and graphs (**Python**) to illustrate performance metrics, clearly understanding project progress and enabling informed choices for future steps.
-[Application](https://hhhnnn.streamlit.app/)
 
 **Research Assistant for Dr. Jade Chen** @ Loyola Marymount University (_Oct 2024 - Present_)
 - Manage and process **800GB+** of data across multiple parquet files, enabling efficient extraction of critical information and accelerating ongoing research efforts.
@@ -47,6 +47,6 @@
 
 ## Awards
 **2024 LMU Datathon**, 1st Place
+[link](https://www.linkedin.com/posts/loyola-marymount-university-college-of-business-administration_lmucba-lmuisba-lmumsba-activity-7173728335921922048-Cyr6?utm_source=share&utm_medium=member_desktop)
 - Developed a machine learning classifier within **24** hours to predict eligibility for government grants targeting women-owned and minority-owned businesses.
 -	Presented the final solution and secured 1st place with advanced **predictive analytics** and **data modeling** techniques.
-[link](https://www.linkedin.com/posts/loyola-marymount-university-college-of-business-administration_lmucba-lmuisba-lmumsba-activity-7173728335921922048-Cyr6?utm_source=share&utm_medium=member_desktop)
