@@ -62,7 +62,7 @@
 - Developed a machine learning classifier within **24** hours to predict eligibility for government grants targeting women-owned and minority-owned businesses.
 -	Presented the final solution and secured 1st place with advanced **predictive analytics** and **data modeling** techniques.
 
-## Contact Me
+# Contact Me
 
 [Click here to get in touch](mailto:xu.andrew13@gmail.com)
 
@@ -72,8 +72,9 @@
     position: fixed;
     bottom: 20px;
     right: 20px;
+    width: 60px;
+    height: 60px;
     border-radius: 50%;
-    text-align: center;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
     z-index: 1000;
     cursor: pointer;
@@ -86,6 +87,6 @@
   }
 </style>
 
-<a href="https://www.linkedin.com/in/cailiang-xu" target="_blank" class="floating-btn">
-  <img src="/assets/LinkedIn_logo_initials.png" alt="LinkedIn Logo">
+<a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank" class="floating-btn">
+  <img src="/assets/img/LinkedIn_logo_initials.png" alt="LinkedIn Logo">
 </a>
