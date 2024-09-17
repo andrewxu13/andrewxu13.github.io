@@ -2,6 +2,7 @@
 
 #### Technical Skills: A/B Testing, AWS, Azure Machine Learning Studio, C++, Docker, Excel, Git, Kubernetes, Python, Statistical Modelling in R and Python, SQL, Streamlit (Python), Tableau, Rstudio, SAS, Stan, STATA
 
+
 ## Education
 <table>
   <tr>
@@ -60,3 +61,32 @@
 [![Award Preview](/assets/datathon.png)](https://www.linkedin.com/posts/loyola-marymount-university-college-of-business-administration_lmucba-lmuisba-lmumsba-activity-7173728335921922048-Cyr6?utm_source=share&utm_medium=member_desktop)
 - Developed a machine learning classifier within **24** hours to predict eligibility for government grants targeting women-owned and minority-owned businesses.
 -	Presented the final solution and secured 1st place with advanced **predictive analytics** and **data modeling** techniques.
+
+## Contact Me
+
+[Click here to get in touch](mailto:xu.andrew13@gmail.com)
+
+<!-- Floating button placed at the bottom of the markdown file -->
+<style>
+  .floating-btn {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #0073b1; /* LinkedIn blue */
+    color: white;
+    padding: 15px;
+    border-radius: 50%;
+    text-align: center;
+    font-size: 24px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+    z-index: 1000;
+    cursor: pointer;
+  }
+  .floating-btn:hover {
+    background-color: #005582;
+  }
+</style>
+
+<a href="https://www.linkedin.com/in/cailiang-xu" target="_blank" class="floating-btn">
+  {% fa fab linkedin %}
+</a>
