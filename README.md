@@ -72,21 +72,20 @@
     position: fixed;
     bottom: 20px;
     right: 20px;
-    background-color: #0073b1; /* LinkedIn blue */
-    color: white;
-    padding: 15px;
     border-radius: 50%;
     text-align: center;
-    font-size: 24px;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
     z-index: 1000;
     cursor: pointer;
   }
-  .floating-btn:hover {
-    background-color: #005582;
+  .floating-btn img {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    object-fit: cover;
   }
 </style>
 
-<a href="https://www.linkedin.com/in/cailiang-xu/" target="_blank" class="floating-btn">
-  <i class="fab fa-linkedin"></i>
+<a href="https://www.linkedin.com/in/cailiang-xu" target="_blank" class="floating-btn">
+  <img src="/assets/LinkedIn_logo_initials.png" alt="LinkedIn Logo">
 </a>
