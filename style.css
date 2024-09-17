@@ -1,0 +1,7 @@
+/* style.css */
+.round-image {
+    border-radius: 50%;
+    width: 150px; /* Adjust size as needed */
+    height: 150px;
+    object-fit: cover;
+}
