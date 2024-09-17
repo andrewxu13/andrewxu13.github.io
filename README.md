@@ -2,8 +2,8 @@
 
 ### Education
 
-Business Analytics, Master, Loyola Marymount University
-Statistical Science, Bachelor, University of California, Santa Barbara
+- Business Analytics, Master, Loyola Marymount University
+- Statistical Science, Bachelor, University of California, Santa Barbara
 
 ### Work Experience
 Machine Learning Intern @ Sun West Mortgage Company. Inc
