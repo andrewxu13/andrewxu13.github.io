@@ -47,6 +47,7 @@
 
 ## Awards
 **2024 LMU Datathon**, 1st Place
+
 [link](https://www.linkedin.com/posts/loyola-marymount-university-college-of-business-administration_lmucba-lmuisba-lmumsba-activity-7173728335921922048-Cyr6?utm_source=share&utm_medium=member_desktop)
 - Developed a machine learning classifier within **24** hours to predict eligibility for government grants targeting women-owned and minority-owned businesses.
 -	Presented the final solution and secured 1st place with advanced **predictive analytics** and **data modeling** techniques.
