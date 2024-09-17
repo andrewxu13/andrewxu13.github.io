@@ -3,8 +3,8 @@
 #### Technical Skills: A/B Testing, AWS, Azure Machine Learning Studio, C++, Docker, Excel, Git, Kubernetes, Python, Statistical Modelling in R and Python, SQL, Streamlit (Python), Tableau, Rstudio, SAS, Stan, STATA
 
 ## Education
-- Master, Business Analytics | Loyola Marymount University (_Aug 2024_)
-- Bachelor, Statistical Science | University of California, Santa Barbara (_Dec 2020_)
+- M.S., Business Analytics|Loyola Marymount University (_Aug 2024_)
+- B.S, Statistical Science|University of California, Santa Barbara (_Dec 2020_)
 
 ## Work Experience
 **Machine Learning Intern @ Sun West Mortgage Company. Inc** （_May 2024 - Present_)
