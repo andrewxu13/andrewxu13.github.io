@@ -92,4 +92,12 @@
 </a>
 
 <!-- Configuration on my photo -->
+<style>
+  .round-image {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+  }
+</style>
 <img src="/assets/round_headshot.jpg" alt="Andrew Xu" class="round-image">
