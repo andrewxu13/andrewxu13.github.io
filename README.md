@@ -87,6 +87,6 @@
   }
 </style>
 
-<a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank" class="floating-btn">
-  <img src="/assets/img/LinkedIn_logo_initials.png" alt="LinkedIn Logo">
+<a href="https://www.linkedin.com/in/cailiang-xu" target="_blank" class="floating-btn">
+  <img src="/assets/LinkedIn_logo_initials.png" alt="LinkedIn Logo">
 </a>
