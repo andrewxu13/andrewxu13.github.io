@@ -87,6 +87,6 @@
   }
 </style>
 
-<a href="https://www.linkedin.com/in/cailiang-xu" target="_blank" class="floating-btn">
-  {% fa fab linkedin %}
+<a href="https://www.linkedin.com/in/cailiang-xu/" target="_blank" class="floating-btn">
+  <i class="fab fa-linkedin"></i>
 </a>
