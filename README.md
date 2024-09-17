@@ -8,7 +8,7 @@
 
 ### Work Experience
 **Machine Learning Intern @ Sun West Mortgage Company. Inc** （_May 2024 - Present_)
-- Develop a pioneering machine learning model (**Transformer Architecture with Copular Network**) from scratch to determine optimal timing for selling loans to investors, increasing decision making efficiency and accuracy by 5%.
+- Develop a pioneering machine learning model (**Transformer Architecture with Copular Network**) from scratch to determine optimal timing for selling loans to investors, increasing decision-making efficiency and accuracy by 5%.
 
 **Data Scientst Intern** @ Children Hospital, Los Angeles (CHLA) (_May 2024 - Aug 2024_)
 - Increased hospital resource planning efficiency by developing and deploying a predictive model using **Python** and Azure Machine Learning Studio, raising appointment no-show recall rate by **20%** and ensuring better allocation of resources.
