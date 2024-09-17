@@ -27,7 +27,7 @@
 - Constructed an iron supply forecasting model using **SQL** and **Python**, analyzing consumption patterns and purchase volumes to increase sales by **1.5%**. 
 - Created interactive data visualizations with **R** and **Tableau** to illustrate supply-demand dynamics, enhancing stakeholders’ comprehension and facilitating better decision-making processes, resulting in a **10%** increase in operational efficiency.
 
-### Project
+### Projects
 **Advanced NLP System for Pharmaceutical Sentiment Analysis**
 - Architected and implemented a comprehensive NLP pipeline for analyzing sentiment in medication reviews, enhancing drug safety monitoring and patient feedback analysis.
 -	Boosted sentiment classification accuracy by **4.5%** by integrating advanced machine learning techniques and custom-tailored **BERT** models.
