@@ -7,10 +7,11 @@ Statistical Science, Bachelor, University of California, Santa Barbara
 
 ### Work Experience
 Machine Learning Intern @ Sun West Mortgage Company. Inc
-- Project 1
-- Project 2
+- **Project 1**
+- **Project 2**
 
 ### Project
 
 ### More
 
+### Test
