@@ -2,12 +2,9 @@ title: "Cailiang (Andrew) Xu"
 logo: /assets/round_headshot-cropped.jpg
 description: "Andrew Xu's Portfolio"
 #show_downloads: true
-#is_project_page: true
-is_user_page: true
+is_project_page: true
+#is_user_page: true
 theme: jekyll-theme-minimal
 
 plugins:
   - jekyll-remote-theme # Add this line to the plugins list if you already have one
-assets:
-  css:
-    - /style.scss
