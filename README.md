@@ -127,4 +127,18 @@ A/B Testing, AWS, Azure Machine Learning Studio, C++, Docker, Excel, Git, Kubern
     width: 60px;
     height: 60px;
     border-radius: 50%;
-    box-shadow: 2px 2px 5px rgba(
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+    z-index: 1000;
+    cursor: pointer;
+  }
+  .floating-btn img {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    object-fit: cover;
+  }
+</style>
+
+<a href="https://www.linkedin.com/in/cailiang-xu" target="_blank" class="floating-btn">
+  <img src="/assets/LinkedIn_logo_initials.png" alt="LinkedIn Logo">
+</a>
