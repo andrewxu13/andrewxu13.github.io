@@ -33,7 +33,7 @@ A/B Testing, AWS, Azure Machine Learning Studio, C++, Docker, Excel, Git, Kubern
 <div style="margin-bottom: 20px;">
   <strong>Data Scientist Intern</strong>&nbsp;@&nbsp;<strong>Children Hospital, Los Angeles (CHLA)</strong>&nbsp;<em>(May 2024&nbsp;-&nbsp;Aug 2024)</em>
   <a href="https://hhhnnn.streamlit.app/" target="_blank">
-    <img src="/assets/CHLA.png" alt="Application Preview" style="display:block; margin: 10px 0; width: 120px;">
+    <img src="/assets/CHLA.png" alt="Application Preview" style="display:block; margin: 10px 0; width: 200px;">
     Application Preview
   </a>
   <ul style="list-style-type: none; padding-left: 0;">
@@ -110,7 +110,7 @@ A/B Testing, AWS, Azure Machine Learning Studio, C++, Docker, Excel, Git, Kubern
 <div style="margin-bottom: 20px;">
   <strong>2024 LMU Datathon</strong>,&nbsp;1st Place  
   <a href="https://www.linkedin.com/posts/loyola-marymount-university-college-of-business-administration_lmucba-lmuisba-lmumsba-activity-7173728335921922048-Cyr6?utm_source=share&utm_medium=member_desktop" target="_blank">
-    <img src="/assets/datathon.png" alt="Award Preview" style="display:block; margin: 10px 0; width: 120px;">
+    <img src="/assets/datathon.png" alt="Award Preview" style="display:block; margin: 10px 0; width: 200px;">
     Award Preview
   </a>
   <ul style="list-style-type: none; padding-left: 0;">
@@ -149,19 +149,3 @@ A/B Testing, AWS, Azure Machine Learning Studio, C++, Docker, Excel, Git, Kubern
 <a href="https://www.linkedin.com/in/cailiang-xu" target="_blank" class="floating-btn">
   <img src="/assets/LinkedIn_logo_initials.png" alt="LinkedIn Logo">
 </a>
-
-<!-- Adjustments to expand text width -->
-<style>
-  .wrapper {
-    max-width: 1100px; /* Increase the max width of the text section */
-    margin: 0 auto;
-    padding: 20px;
-  }
-
-  header img {
-    border-radius: 50%;
-    width: 220px; /* Increase image size */
-    height: 220px;
-    object-fit: cover;
-  }
-</style>
