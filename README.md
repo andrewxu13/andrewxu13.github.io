@@ -110,7 +110,7 @@ A/B Testing, AWS, Azure Machine Learning Studio, C++, Docker, Excel, Git, Kubern
 <div style="margin-bottom: 20px;">
   <strong>2024 LMU Datathon</strong>,&nbsp;1st Place  
   <a href="https://www.linkedin.com/posts/loyola-marymount-university-college-of-business-administration_lmucba-lmuisba-lmumsba-activity-7173728335921922048-Cyr6?utm_source=share&utm_medium=member_desktop" target="_blank">
-    <img src="/assets/datathon.png" alt="Award Preview" style="display:block; margin: 10px 0; width: 100px;">
+    <img src="/assets/datathon.png" alt="Award Preview" style="display:block; margin: 10px 0; width: 1000px;">
     Award Preview
   </a>
   <ul style="list-style-type: none; padding-left: 0;">
