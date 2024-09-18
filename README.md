@@ -1,4 +1,4 @@
-# Data Guy
+# AI & Data Developer
 
 #### Technical Skills:
 A/B Testing, AWS, Azure Machine Learning Studio, C++, Docker, Excel, Git, Kubernetes, Python, Statistical Modelling in R and Python, SQL, Streamlit (Python), Tableau, Rstudio, SAS, Stan, STATA
