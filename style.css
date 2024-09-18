@@ -10,3 +10,14 @@ header img {
   height: 150px;
   object-fit: cover;
 }
+
+/* Increase the width of the text/content section */
+.wrapper {
+  max-width: 1000px;  /* Adjust this to your preferred width */
+  margin: 0 auto;
+  padding: 20px;  /* Add some padding for breathing room */
+}
+
+section {
+  padding: 20px 0; /* Add padding above and below the section */
+}
