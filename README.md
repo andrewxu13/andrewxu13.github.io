@@ -6,18 +6,29 @@ A/B Testing, AWS, Azure Machine Learning Studio, C++, Docker, Excel, Git, Kubern
 ---
 
 ## Education
-<table style="width:100%; border-collapse: collapse; margin-bottom: 20px;">
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 0;"><strong>M.S., Business Analytics</strong></td>
-    <td>Loyola Marymount University</td>
-    <td style="text-align:right; padding-left: 20px;"><em>Aug&nbsp;2024</em></td>
-  </tr>
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 0;"><strong>B.S., Statistical Science</strong></td>
-    <td style="white-space: nowrap;">University of California, Santa Barbara</td>
-    <td style="text-align:right; padding-left: 20px;"><em>Dec&nbsp;2020</em></td>
-  </tr>
-</table>
+
+<div style="display: flex; flex-direction: column; gap: 20px; margin-bottom: 20px;">
+  <!-- First Education Item -->
+  <div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: space-between; border-bottom: 1px solid #ddd; padding-bottom: 10px;">
+    <div style="flex: 1; min-width: 200px;">
+      <strong>M.S., Business Analytics</strong><br>
+      Loyola Marymount University
+    </div>
+    <div style="text-align: right; min-width: 100px;">
+      <em>Aug 2024</em>
+    </div>
+  </div>
+  <!-- Second Education Item -->
+  <div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: space-between; border-bottom: 1px solid #ddd; padding-bottom: 10px;">
+    <div style="flex: 1; min-width: 200px;">
+      <strong>B.S., Statistical Science</strong><br>
+      University of California, Santa Barbara
+    </div>
+    <div style="text-align: right; min-width: 100px;">
+      <em>Dec 2020</em>
+    </div>
+  </div>
+</div>
 
 ---
 
