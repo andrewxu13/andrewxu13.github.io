@@ -92,14 +92,14 @@ A/B Testing, AWS, Azure Machine Learning Studio, C++, Docker, Excel, Git, Kubern
 
 <div style="margin-bottom: 20px;">
   <strong>Video Game Sales and Tableau</strong>
-  <a href="https://hhhnnn.streamlit.app/" target="_blank">
-    <img src="/assets/CHLA.png" alt="Application Preview" style="display:block; margin: 10px 0; width: 1000px;">
-    Dashboard Preview
-  </a>
+  <div style="margin: 10px 0;">
+    <iframe src="https://public.tableau.com/views/videogamesales_17298085072530/RegionDashboard?:embed=y&:display_count=yes&:toolbar=yes" width="1000" height="827" style="border:none;"></iframe>
+    <p style="text-align: center;">Interactive Dashboard Preview</p>
+  </div>
   <ul style="list-style-type: none; padding-left: 0;">
-    <li style="margin-bottom: 10px;">- ETL in Python</li>
-    <li style="margin-bottom: 10px;">- Star Schema for 10% faster query time.</li>
-    <li style="margin-bottom: 10px;">- Tableau Dashboards for stakeholders to convey the insights of the analysis.</li>
+    <li style="margin-bottom: 10px;"><strong>ETL in Python</strong>: Efficient extraction and transformation of large datasets.</li>
+    <li style="margin-bottom: 10px;"><strong>Star Schema</strong>: Designed for faster query performance, improving response time by 10%.</li>
+    <li style="margin-bottom: 10px;"><strong>Tableau Dashboards</strong>: Created for stakeholders to convey insights from the analysis clearly and interactively.</li>
   </ul>
 </div>
 
