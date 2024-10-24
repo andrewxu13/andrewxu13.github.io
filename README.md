@@ -91,6 +91,19 @@ A/B Testing, AWS, Azure Machine Learning Studio, C++, Docker, Excel, Git, Kubern
 </div>
 
 <div style="margin-bottom: 20px;">
+  <strong>Video Game Sales and Tableau</strong>
+  <a href="https://hhhnnn.streamlit.app/" target="_blank">
+    <img src="/assets/CHLA.png" alt="Application Preview" style="display:block; margin: 10px 0; width: 1000px;">
+    Dashboard Preview
+  </a>
+  <ul style="list-style-type: none; padding-left: 0;">
+    <li style="margin-bottom: 10px;">- ETL in Python</li>
+    <li style="margin-bottom: 10px;">- Star Schema for 10% faster query time.</li>
+    <li style="margin-bottom: 10px;">- Tableau Dashboards for stakeholders to convey the insights of the analysis.</li>
+  </ul>
+</div>
+
+<div style="margin-bottom: 20px;">
   <strong>Spotify Stream Scan</strong>
   <ul style="list-style-type: none; padding-left: 0;">
     <li style="margin-bottom: 10px;">- Designed an end-to-end project to retrieve <strong>1GB+</strong> of daily Spotify API data. Predicted genre trends with machine learning algorithms to identify the most suitable genre from over 25 options for upcoming artists to capture trends.</li>
