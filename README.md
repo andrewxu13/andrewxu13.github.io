@@ -90,7 +90,7 @@ A/B Testing, AWS, Azure Machine Learning Studio, C++, Docker, Excel, Git, Kubern
   </ul>
 </div>
 
-<div style="margin: 20px 30px;"> <!-- Updated margins -->
+<div style="margin-bottom: 20px;"> <!-- Updated margins -->
   <strong>Video Game Sales and Tableau</strong>
   <div style="margin: 20px 0;"> <!-- Top and bottom margin -->
     <div class='tableauPlaceholder' id='viz1729810900240' style='position: relative;'>
@@ -136,9 +136,9 @@ A/B Testing, AWS, Azure Machine Learning Studio, C++, Docker, Excel, Git, Kubern
     <p style="text-align: center;">Interactive Dashboard Preview</p>
   </div>
   <ul style="list-style-type: none; padding-left: 0;">
-    <li style="margin-bottom: 10px;"><strong>ETL in Python</strong>: Efficient extraction and transformation of large datasets.</li>
-    <li style="margin-bottom: 10px;"><strong>Star Schema</strong>: Designed for faster query performance, improving response time by 10%.</li>
-    <li style="margin-bottom: 10px;"><strong>Tableau Dashboards</strong>: Created for stakeholders to convey insights from the analysis clearly and interactively.</li>
+    <li style="margin-bottom: 20px;"><strong>ETL in Python</strong>: Efficient extraction and transformation of large datasets.</li>
+    <li style="margin-bottom: 20px;"><strong>Star Schema</strong>: Designed for faster query performance, improving response time by 10%.</li>
+    <li style="margin-bottom: 20px;"><strong>Tableau Dashboards</strong>: Created for stakeholders to convey insights from the analysis clearly and interactively.</li>
   </ul>
 </div>
 
